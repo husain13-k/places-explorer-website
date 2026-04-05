@@ -1,4 +1,4 @@
-# ✈️ Flight Booking Website
+# ✈️  Search and Explore places
 
 A responsive and user-friendly Flight Booking Website that allows users to explore destinations, view flight details, and simulate booking tickets online.
 
@@ -21,15 +21,3 @@ A responsive and user-friendly Flight Booking Website that allows users to explo
 - JavaScript
 
 ---
-
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-Example:
-![Home Page](images/home.png)
-![Booking Page](images/booking.png)
-
----
-
-## 📂 Project Structure
